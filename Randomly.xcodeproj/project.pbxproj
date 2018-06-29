@@ -7,21 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		802021E320AB150C002FE363 /* FortuneCookieViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 802021E220AB150C002FE363 /* FortuneCookieViewController.swift */; };
+		8030D20920AEFA3E002CC964 /* THEpuddingB.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8030D20820AEFA3D002CC964 /* THEpuddingB.otf */; };
+		8030D21720B43035002CC964 /* DXAbtStd-B.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8030D21620B43031002CC964 /* DXAbtStd-B.otf */; };
+		80A6C56020A7787B0025D12B /* HEADPHAZEViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80A6C55F20A7787B0025D12B /* HEADPHAZEViewController.swift */; };
+		80B05A1720A78D6F001E24F4 /* YesOrNoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80B05A1620A78D6F001E24F4 /* YesOrNoViewController.swift */; };
+		80B05A1920A78DDC001E24F4 /* RoundButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80B05A1820A78DDC001E24F4 /* RoundButton.swift */; };
 		80C500AD20A7294300BFA3DD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C500AC20A7294300BFA3DD /* AppDelegate.swift */; };
-		80C500AF20A7294300BFA3DD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C500AE20A7294300BFA3DD /* ViewController.swift */; };
-		80C500B220A7294300BFA3DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80C500B020A7294300BFA3DD /* Main.storyboard */; };
-		80C500B420A7294A00BFA3DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80C500B320A7294A00BFA3DD /* Assets.xcassets */; };
-		80C500B720A7294A00BFA3DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80C500B520A7294A00BFA3DD /* LaunchScreen.storyboard */; };
+		80C500BF20A7296400BFA3DD /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C500BE20A7296400BFA3DD /* MainViewController.swift */; };
+		80C500C420A7299800BFA3DD /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C500C120A7299800BFA3DD /* MenuViewController.swift */; };
+		80C500C520A7299800BFA3DD /* DateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C500C220A7299800BFA3DD /* DateViewController.swift */; };
+		80C500C620A7299800BFA3DD /* TripViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80C500C320A7299800BFA3DD /* TripViewController.swift */; };
+		80C500C920A729AF00BFA3DD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80C500C720A729AF00BFA3DD /* Main.storyboard */; };
+		80C500CA20A729AF00BFA3DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 80C500C820A729AF00BFA3DD /* LaunchScreen.storyboard */; };
+		80C500CC20A729C500BFA3DD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80C500CB20A729C500BFA3DD /* Assets.xcassets */; };
+		80E17EEC20B7D31B006E326C /* OverseasViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E17EEB20B7D31B006E326C /* OverseasViewController.swift */; };
+		80E17EEE20B7D340006E326C /* TripListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80E17EED20B7D340006E326C /* TripListViewController.swift */; };
+		8EF6317292A3EC4413BFBF83 /* Pods_Randomly.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 599DE1DFA7FA412965C2E6ED /* Pods_Randomly.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		56E8FD621E5E6F653343D2A3 /* Pods-Randomly.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Randomly.release.xcconfig"; path = "Pods/Target Support Files/Pods-Randomly/Pods-Randomly.release.xcconfig"; sourceTree = "<group>"; };
+		599DE1DFA7FA412965C2E6ED /* Pods_Randomly.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Randomly.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		802021E220AB150C002FE363 /* FortuneCookieViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FortuneCookieViewController.swift; sourceTree = "<group>"; };
+		8030D20820AEFA3D002CC964 /* THEpuddingB.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = THEpuddingB.otf; sourceTree = "<group>"; };
+		8030D21620B43031002CC964 /* DXAbtStd-B.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DXAbtStd-B.otf"; sourceTree = "<group>"; };
+		80A6C55F20A7787B0025D12B /* HEADPHAZEViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HEADPHAZEViewController.swift; sourceTree = "<group>"; };
+		80B05A1620A78D6F001E24F4 /* YesOrNoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YesOrNoViewController.swift; sourceTree = "<group>"; };
+		80B05A1820A78DDC001E24F4 /* RoundButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundButton.swift; sourceTree = "<group>"; };
 		80C500A920A7294300BFA3DD /* Randomly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Randomly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		80C500AC20A7294300BFA3DD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		80C500AE20A7294300BFA3DD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		80C500B120A7294300BFA3DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		80C500B320A7294A00BFA3DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		80C500B620A7294A00BFA3DD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		80C500B820A7294A00BFA3DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		80C500BE20A7296400BFA3DD /* MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = MainViewController.swift; path = ../../pickingout/chus/MainViewController.swift; sourceTree = "<group>"; };
+		80C500C120A7299800BFA3DD /* MenuViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		80C500C220A7299800BFA3DD /* DateViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DateViewController.swift; sourceTree = "<group>"; };
+		80C500C320A7299800BFA3DD /* TripViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TripViewController.swift; sourceTree = "<group>"; };
+		80C500C720A729AF00BFA3DD /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		80C500C820A729AF00BFA3DD /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		80C500CB20A729C500BFA3DD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		80E17EEB20B7D31B006E326C /* OverseasViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OverseasViewController.swift; sourceTree = "<group>"; };
+		80E17EED20B7D340006E326C /* TripListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TripListViewController.swift; sourceTree = "<group>"; };
+		B0E03EA1642AE53BB3E50B6B /* Pods-Randomly.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Randomly.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Randomly/Pods-Randomly.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -29,17 +55,51 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8EF6317292A3EC4413BFBF83 /* Pods_Randomly.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		26A9FB7BC4BB1B03B139B87D /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				B0E03EA1642AE53BB3E50B6B /* Pods-Randomly.debug.xcconfig */,
+				56E8FD621E5E6F653343D2A3 /* Pods-Randomly.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		5742D74CE0C24C3FFE2F3994 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				599DE1DFA7FA412965C2E6ED /* Pods_Randomly.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		80A6C55E20A778650025D12B /* Add View */ = {
+			isa = PBXGroup;
+			children = (
+				80A6C55F20A7787B0025D12B /* HEADPHAZEViewController.swift */,
+				8030D20820AEFA3D002CC964 /* THEpuddingB.otf */,
+				8030D21620B43031002CC964 /* DXAbtStd-B.otf */,
+			);
+			path = "Add View";
+			sourceTree = "<group>";
+		};
 		80C500A020A7294300BFA3DD = {
 			isa = PBXGroup;
 			children = (
+				80A6C55E20A778650025D12B /* Add View */,
+				80C500C720A729AF00BFA3DD /* Main.storyboard */,
 				80C500AB20A7294300BFA3DD /* Randomly */,
+				80C500C020A7298000BFA3DD /* Select View */,
 				80C500AA20A7294300BFA3DD /* Products */,
+				80C500C820A729AF00BFA3DD /* LaunchScreen.storyboard */,
+				26A9FB7BC4BB1B03B139B87D /* Pods */,
+				5742D74CE0C24C3FFE2F3994 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,13 +115,26 @@
 			isa = PBXGroup;
 			children = (
 				80C500AC20A7294300BFA3DD /* AppDelegate.swift */,
-				80C500AE20A7294300BFA3DD /* ViewController.swift */,
-				80C500B020A7294300BFA3DD /* Main.storyboard */,
-				80C500B320A7294A00BFA3DD /* Assets.xcassets */,
-				80C500B520A7294A00BFA3DD /* LaunchScreen.storyboard */,
+				80C500BE20A7296400BFA3DD /* MainViewController.swift */,
 				80C500B820A7294A00BFA3DD /* Info.plist */,
+				80C500CB20A729C500BFA3DD /* Assets.xcassets */,
+				80B05A1820A78DDC001E24F4 /* RoundButton.swift */,
 			);
 			path = Randomly;
+			sourceTree = "<group>";
+		};
+		80C500C020A7298000BFA3DD /* Select View */ = {
+			isa = PBXGroup;
+			children = (
+				80C500C120A7299800BFA3DD /* MenuViewController.swift */,
+				80C500C220A7299800BFA3DD /* DateViewController.swift */,
+				80C500C320A7299800BFA3DD /* TripViewController.swift */,
+				80E17EEB20B7D31B006E326C /* OverseasViewController.swift */,
+				80B05A1620A78D6F001E24F4 /* YesOrNoViewController.swift */,
+				802021E220AB150C002FE363 /* FortuneCookieViewController.swift */,
+				80E17EED20B7D340006E326C /* TripListViewController.swift */,
+			);
+			path = "Select View";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -71,9 +144,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 80C500BB20A7294A00BFA3DD /* Build configuration list for PBXNativeTarget "Randomly" */;
 			buildPhases = (
+				6B757929BB0E37586D3F169B /* [CP] Check Pods Manifest.lock */,
 				80C500A520A7294300BFA3DD /* Sources */,
 				80C500A620A7294300BFA3DD /* Frameworks */,
 				80C500A720A7294300BFA3DD /* Resources */,
+				40964EA69182B632B007FBBF /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -122,44 +197,77 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80C500B720A7294A00BFA3DD /* LaunchScreen.storyboard in Resources */,
-				80C500B420A7294A00BFA3DD /* Assets.xcassets in Resources */,
-				80C500B220A7294300BFA3DD /* Main.storyboard in Resources */,
+				8030D20920AEFA3E002CC964 /* THEpuddingB.otf in Resources */,
+				80C500C920A729AF00BFA3DD /* Main.storyboard in Resources */,
+				80C500CA20A729AF00BFA3DD /* LaunchScreen.storyboard in Resources */,
+				8030D21720B43035002CC964 /* DXAbtStd-B.otf in Resources */,
+				80C500CC20A729C500BFA3DD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		40964EA69182B632B007FBBF /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${SRCROOT}/Pods/Target Support Files/Pods-Randomly/Pods-Randomly-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework",
+				"${BUILT_PRODUCTS_DIR}/SVProgressHUD/SVProgressHUD.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ChameleonFramework.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SVProgressHUD.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Randomly/Pods-Randomly-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6B757929BB0E37586D3F169B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-Randomly-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		80C500A520A7294300BFA3DD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80C500AF20A7294300BFA3DD /* ViewController.swift in Sources */,
+				80B05A1920A78DDC001E24F4 /* RoundButton.swift in Sources */,
+				802021E320AB150C002FE363 /* FortuneCookieViewController.swift in Sources */,
+				80E17EEC20B7D31B006E326C /* OverseasViewController.swift in Sources */,
+				80C500C520A7299800BFA3DD /* DateViewController.swift in Sources */,
+				80E17EEE20B7D340006E326C /* TripListViewController.swift in Sources */,
+				80B05A1720A78D6F001E24F4 /* YesOrNoViewController.swift in Sources */,
+				80C500C620A7299800BFA3DD /* TripViewController.swift in Sources */,
+				80A6C56020A7787B0025D12B /* HEADPHAZEViewController.swift in Sources */,
+				80C500BF20A7296400BFA3DD /* MainViewController.swift in Sources */,
+				80C500C420A7299800BFA3DD /* MenuViewController.swift in Sources */,
 				80C500AD20A7294300BFA3DD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		80C500B020A7294300BFA3DD /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80C500B120A7294300BFA3DD /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		80C500B520A7294A00BFA3DD /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				80C500B620A7294A00BFA3DD /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		80C500B920A7294A00BFA3DD /* Debug */ = {
@@ -278,9 +386,11 @@
 		};
 		80C500BC20A7294A00BFA3DD /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = B0E03EA1642AE53BB3E50B6B /* Pods-Randomly.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4LKM79B7Y6;
 				INFOPLIST_FILE = Randomly/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -289,15 +399,17 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.eunjutak.Randomly;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
 		80C500BD20A7294A00BFA3DD /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 56E8FD621E5E6F653343D2A3 /* Pods-Randomly.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 4LKM79B7Y6;
 				INFOPLIST_FILE = Randomly/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -306,7 +418,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.eunjutak.Randomly;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
